@@ -1,0 +1,1 @@
+import{$ as a}from"./index-dNpvnuT6.js";const e=a;try{e.displayName="VisuallyHidden",e.__docgenInfo={description:"",displayName:"VisuallyHidden",props:{asChild:{defaultValue:null,description:"",name:"asChild",required:!1,type:{name:"boolean"}}}}}catch{}export{e as V};
